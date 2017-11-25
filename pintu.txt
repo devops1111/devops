@@ -1,0 +1,12 @@
+my name is pintu
+my titel sabat
+my phone number=8763148669
+my whattsupp number=same as number
+my gmailid=biswajit.sabat007
+<<<<<<< HEAD
+1111
+=======
+22222
+>>>>>>> bug-1.0
+3333
+am going to add another
