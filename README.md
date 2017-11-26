@@ -1,1 +1,2 @@
 # devops
+ready steadt go
